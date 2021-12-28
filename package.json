@@ -2,14 +2,18 @@
   "name": "prettier-config-mrdgh2821",
   "version": "1.0.0",
   "description": "Prettier Config for MRDGH2821's projects",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "index.json",
+  "keywords": [
+    "prettier", "config", "prettier-config"
+  ],
+  "author": "MRDGH2821 (https://github.com/MRDGH2821)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRDGH2821/prettier-config-mrdgh2821.git"
   },
-  "keywords": [],
-  "author": {
-    "name": "MRDGH2821",
-    "url": "https://github.com/MRDGH2821"
+  "bugs": {
+    "url": "https://github.com/MRDGH2821/prettier-config-mrdgh2821/issues"
   },
-  "license": "ISC"
+  "homepage": "https://github.com/MRDGH2821/prettier-config-mrdgh2821#readme"
 }
