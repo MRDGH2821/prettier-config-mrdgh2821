@@ -7,7 +7,7 @@ Prettier Config for MRDGH2821's projects
 Install using this command.
 
 ```bash
-npm i prettier-config-mrdgh2821
+npm i prettier-config-mrdgh2821 --save-dev
 ```
 
 ## Usage
