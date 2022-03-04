@@ -8,8 +8,9 @@
     "config",
     "prettier-config"
   ],
+  "files": ["index.json"],
   "author": "MRDGH2821 (https://github.com/MRDGH2821)",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MRDGH2821/prettier-config-mrdgh2821.git"
