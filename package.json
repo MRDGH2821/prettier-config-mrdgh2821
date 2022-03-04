@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-mrdgh2821",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Prettier Config for MRDGH2821's projects",
   "main": "index.json",
   "keywords": [
@@ -8,7 +8,9 @@
     "config",
     "prettier-config"
   ],
-  "files": ["index.json"],
+  "files": [
+    "index.json"
+  ],
   "author": "MRDGH2821 (https://github.com/MRDGH2821)",
   "license": "MIT",
   "repository": {
